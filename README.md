@@ -10,6 +10,11 @@
 
 ## Contents
 
+- [Prometheus](#prometheus)
+
+## Prometheus
+
+- [CSGO Exporter](https://github.com/kinduff/csgo_exporter) -  A Prometheus exporter for Counter-Strike: Global Offensive.
 
 <!-- List end -->
 
