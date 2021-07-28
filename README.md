@@ -10,7 +10,12 @@
 
 ## Contents
 
+- [Command Line Tools](#command-line-tools)
 - [Prometheus](#prometheus)
+
+## Command Line Tools
+
+- [vpr](https://github.com/JuanCrg90/vpr) - VPR is a CLI that helps you to quickly manage your project in GitHub/GitLab/Bitbucket
 
 ## Prometheus
 
