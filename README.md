@@ -21,14 +21,13 @@ A collection of amazing open source projects built by mexican developers
 - [vpr](https://github.com/JuanCrg90/vpr) - VPR is a CLI that helps you to quickly manage your project in GitHub/GitLab/Bitbucket
 
 
-
 ## Data Access
 
-- [Mondocks](https://github.com/AngelMunoz/Mondocks) An alternative way to interact with MongoDB databases from F# that allows you to use mongo-idiomatic constructs
+- [Mondocks](https://github.com/AngelMunoz/Mondocks) - An alternative way to interact with MongoDB databases from F# that allows you to use mongo-idiomatic constructs
 
 ## Prometheus
 
-- [CSGO Exporter](https://github.com/kinduff/csgo_exporter) -  A Prometheus exporter for Counter-Strike: Global Offensive.
+- [CSGO Exporter](https://github.com/kinduff/csgo_exporter) - A Prometheus exporter for Counter-Strike: Global Offensive.
 
 <!-- List end -->
 
