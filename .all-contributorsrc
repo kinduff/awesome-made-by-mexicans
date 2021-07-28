@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "JuanCrg90",
+      "name": "Juan Carlos Ruiz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2718753?v=4",
+      "profile": "http://juancrg90.me/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "awesome-made-by-mexicans",
+  "projectOwner": "kinduff",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
