@@ -1,12 +1,11 @@
 # :mexico: Awesome Made by Mexicans [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+A collection of amazing open source projects built by mexican developers
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-> A collection of amazing open source projects built by mexican developers
-
 [![license](https://img.shields.io/github/license/kinduff/awesome-made-by-mexicans.svg)](/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/kinduff/awesome-made-by-mexicans.svg)](https://github.com/kinduff/awesome-made-by-mexicans/graphs/contributors)
 [![.github/workflows/main.yml](https://github.com/kinduff/awesome-made-by-mexicans/actions/workflows/main.yml/badge.svg)](https://github.com/kinduff/awesome-made-by-mexicans/actions/workflows/main.yml)
 
 <!-- List start -->
