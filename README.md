@@ -12,22 +12,33 @@ A collection of amazing open source projects built by mexican developers
 
 - [Command Line Tools](#command-line-tools)
 - [Data Access](#data-access)
+- [Javascript](#javascript)
 - [Prometheus](#prometheus)
+- [Ruby](#ruby)
 
 ## Command Line Tools
 
-- [Migrondi](https://github.com/AngelMunoz/Migrondi) - A Super simple SQL Migrations Tool for SQLite, PostgreSQL, MySQL and SQL Server
-- [NvmFs](https://github.com/AngelMunoz/NvmFs) - A dead-simple node version manager written in F#
-- [vpr](https://github.com/JuanCrg90/vpr) - VPR is a CLI that helps you to quickly manage your project in GitHub/GitLab/Bitbucket
-- [scanrs](https://github.com/VentGrey/scanrs) - A very simple Rust Library to easily process std input.
+- [AngelMunoz/Migrondi](https://github.com/AngelMunoz/Migrondi) - A Super simple SQL Migrations Tool for SQLite, PostgreSQL, MySQL and SQL Server
+- [AngelMunoz/NvmFs](https://github.com/AngelMunoz/NvmFs) - A dead-simple node version manager written in F#
+- [JuanCrg90/vpr](https://github.com/JuanCrg90/vpr) - VPR is a CLI that helps you to quickly manage your project in GitHub/GitLab/Bitbucket
+- [VentGrey/scanrs](https://github.com/VentGrey/scanrs) - A very simple Rust Library to easily process std input
 
 ## Data Access
 
-- [Mondocks](https://github.com/AngelMunoz/Mondocks) - An alternative way to interact with MongoDB databases from F# that allows you to use mongo-idiomatic constructs
+- [AngelMunoz/Mondocks](https://github.com/AngelMunoz/Mondocks) - An alternative way to interact with MongoDB databases from F# that allows you to use mongo-idiomatic constructs
+
+## Javascript
+
+- [BoxFactura/pulltorefresh.js](https://github.com/BoxFactura/pulltorefresh.js) -  A quick and powerful plugin for your pull-to-refresh needs in your webapp
 
 ## Prometheus
 
-- [CSGO Exporter](https://github.com/kinduff/csgo_exporter) - A Prometheus exporter for Counter-Strike: Global Offensive.
+- [kinduff/CSGO Exporter](https://github.com/kinduff/csgo_exporter) - A Prometheus exporter for Counter-Strike: Global Offensive
+
+## Ruby
+
+- [BoxFactura/insensitive_hash](https://github.com/BoxFactura/insensitive_hash) - Hash with case-insensitive, Symbol/String-indifferent key access
+- [BoxFactura/PDFDetach](https://github.com/BoxFactura/pdfdetach) - Extract attachments from PDF files
 
 <!-- List end -->
 
