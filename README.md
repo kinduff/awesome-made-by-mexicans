@@ -19,7 +19,7 @@ A collection of amazing open source projects built by mexican developers
 - [Migrondi](https://github.com/AngelMunoz/Migrondi) - A Super simple SQL Migrations Tool for SQLite, PostgreSQL, MySQL and SQL Server
 - [NvmFs](https://github.com/AngelMunoz/NvmFs) - A dead-simple node version manager written in F#
 - [vpr](https://github.com/JuanCrg90/vpr) - VPR is a CLI that helps you to quickly manage your project in GitHub/GitLab/Bitbucket
-
+- [scanrs](https://github.com/VentGrey/scanrs) - A very simple Rust Library to easily process std input.
 
 ## Data Access
 
