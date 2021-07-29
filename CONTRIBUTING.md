@@ -24,7 +24,7 @@ Please use the following guidelines to add a new item to the list:
 ```
 ## Ruby on Rails
 
-- [Mexigem](https://github.com/ghost/mexigem) - Short description about the mexigem
+- [ghost/Mexigem](https://github.com/ghost/mexigem) - Short description about the mexigem
 ```
 
 Please check out [this example](https://raw.githubusercontent.com/dar5hak/generator-awesome-list/master/app/templates/readme.md)

@@ -8,7 +8,7 @@
 -->
 ## author/resource
 
-**[Insert URL to the repository, package, or web here]**
+**[Author/URL to the repository, package, or web here]**
 
 **[Explain what this resource is about]**
 
