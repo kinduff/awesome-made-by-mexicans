@@ -10,11 +10,16 @@ A collection of amazing open source projects built by mexican developers
 
 ## Contents
 
+- [Bots](#bots)
 - [Command Line Tools](#command-line-tools)
 - [Data Access](#data-access)
 - [Javascript](#javascript)
 - [Prometheus](#prometheus)
 - [Ruby](#ruby)
+
+## Bots
+
+- [Luyer74/botDesaparecidx](https://github.com/Luyer74/botDesaparecidx) - Created to help finding lost people using social networks
 
 ## Command Line Tools
 
