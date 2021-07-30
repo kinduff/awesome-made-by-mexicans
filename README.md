@@ -39,7 +39,7 @@ A collection of amazing open source projects built by mexican developers
 
 ## PHP
 
-- [phpCfdi](https://github.com/phpcfdi) - PHP libraries to work with CFDI and other SAT tools.
+- [eclipxe13/phpCfdi](https://github.com/phpcfdi) - PHP libraries to work with CFDI and other SAT tools.
 
 ## Prometheus
 
