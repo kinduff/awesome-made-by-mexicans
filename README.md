@@ -45,6 +45,10 @@ A collection of amazing open source projects built by mexican developers
 - [BoxFactura/insensitive_hash](https://github.com/BoxFactura/insensitive_hash) - Hash with case-insensitive, Symbol/String-indifferent key access
 - [BoxFactura/PDFDetach](https://github.com/BoxFactura/pdfdetach) - Extract attachments from PDF files
 
+## Php
+
+- [phpcfdi](https://github.com/phpcfdi) - PHP libraries to work with CFDI and other SAT tools.
+
 <!-- List end -->
 
 ## Contributors ✨
