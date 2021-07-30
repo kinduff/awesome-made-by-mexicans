@@ -15,6 +15,7 @@ A collection of amazing open source projects built by mexican developers
 - [Data Access](#data-access)
 - [Javascript](#javascript)
 - [Prometheus](#prometheus)
+- [PHP](#php)
 - [Ruby](#ruby)
 
 ## Bots
@@ -36,6 +37,10 @@ A collection of amazing open source projects built by mexican developers
 
 - [BoxFactura/pulltorefresh.js](https://github.com/BoxFactura/pulltorefresh.js) -  A quick and powerful plugin for your pull-to-refresh needs in your webapp
 
+## PHP
+
+- [phpCfdi](https://github.com/phpcfdi) - PHP libraries to work with CFDI and other SAT tools.
+
 ## Prometheus
 
 - [kinduff/CSGO Exporter](https://github.com/kinduff/csgo_exporter) - A Prometheus exporter for Counter-Strike: Global Offensive
@@ -44,10 +49,6 @@ A collection of amazing open source projects built by mexican developers
 
 - [BoxFactura/insensitive_hash](https://github.com/BoxFactura/insensitive_hash) - Hash with case-insensitive, Symbol/String-indifferent key access
 - [BoxFactura/PDFDetach](https://github.com/BoxFactura/pdfdetach) - Extract attachments from PDF files
-
-## Php
-
-- [phpcfdi](https://github.com/phpcfdi) - PHP libraries to work with CFDI and other SAT tools.
 
 <!-- List end -->
 
